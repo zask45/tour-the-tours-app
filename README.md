@@ -1,4 +1,4 @@
-# tour-the-tours-app
+# Tour The Tours!
 
 _Tour The Tours!_ is a mobile app that runs on Android platform. The app is built with Kotlin and uses RecyclerView to display the main layout.
 
