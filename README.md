@@ -8,7 +8,7 @@ _Tour The Tours!_ is a mobile app that runs on Android platform. The app is buil
 ---
 - IDE: Android Studio
 - Language: Kotlin
-- Minimum SDK: API 14 (Android 4.4, "KitKat")
+- Minimum SDK: API 21
 - Compile SDK: API 34
 
 ### Demo
