@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text.Body">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="android:textColor">@color/slate_700</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:justificationMode">inter_word</item>
+    </style>
+</resources>

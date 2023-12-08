@@ -1,0 +1,69 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyTourismApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_logo</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="Text.Headline">
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineLarge</item>
+        <item name="android:textColor">@color/medium_grey</item>
+    </style>
+
+    <style name="Text.Headline.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Headline.Bold.Small">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineSmall</item>
+    </style>
+
+    <style name="Text.Body">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="android:textColor">@color/slate_700</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="Text.Body.Large">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyLarge</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+
+    <style name="Text.Body.Large.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Body.Small">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodySmall</item>
+    </style>
+
+    <style name="CardImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="CardImage_2">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="circle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.MyTourismApp" parent="Base.Theme.MyTourismApp" />
+</resources>

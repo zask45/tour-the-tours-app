@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyTourismApp</string>
+
+    <string name="places_name">Nama Tempat Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="my_name">Keysha Zascha Medina</string>
+    <string name="my_email">zaschakeysha@gmail.com</string>
+    <string name="bar_title">Tour The Tours!</string>
+    <string name="menu">menu</string>
+    <string name="about_creator">About Creator</string>
+    <string name="image">image</string>
+
+    <string-array name="data_name">
+        <item>Borobudur</item>
+        <item>Prambanan</item>
+        <item>Dieng Plateau</item>
+        <item>Raja Ampat</item>
+        <item>Bali</item>
+        <item>Bromo Tengger Semeru</item>
+        <item>Tana Toraja</item>
+        <item>Labuan Bajo</item>
+        <item>Lombok</item>
+        <item>Bandung</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terdiri dari enam teras berbentuk persegi panjang, tiga teras atas berbentuk melingkar, dan sebuah stupa besar utama di puncaknya.</item>
+        <item>Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia, terletak di Klaten dan Sleman, Yogyakarta. Candi ini merupakan kompleks candi Hindu terbesar di Indonesia yang terdiri dari beberapa candi yang memiliki arsitektur indah dan unik.</item>
+        <item>Dieng Plateau adalah dataran tinggi di Jawa Tengah, Indonesia, yang terkenal dengan pemandangan alamnya, danau-danau kecil, serta kompleks candi Hindu kuno seperti Candi Arjuna.</item>
+        <item>Raja Ampat adalah destinasi wisata yang terkenal karena keindahan alam bawah lautnya. Terletak di Papua Barat, Indonesia, Raja Ampat dikenal sebagai surga bagi penyelam dengan keanekaragaman hayati laut yang luar biasa.</item>
+        <item>Pulau Bali adalah salah satu destinasi wisata terkenal di Indonesia yang terkenal dengan pantainya yang indah, kebudayaannya, dan keramahannya. Bali memiliki banyak tempat menarik seperti Pantai Kuta, Ubud, dan Pura Besakih.</item>
+        <item>Bromo Tengger Semeru adalah sebuah taman nasional yang terletak di Jawa Timur, Indonesia. Taman ini terkenal dengan keindahan gunung berapi Bromo, serta Gunung Semeru yang merupakan gunung tertinggi di Pulau Jawa.</item>
+        <item>Tana Toraja terletak di Sulawesi Selatan, Indonesia, dan terkenal dengan kebudayaannya yang unik, terutama tradisi pemakaman dengan patung-patung dan upacara adat yang kaya akan simbol dan makna.</item>
+        <item>Labuan Bajo merupakan kota yang menjadi pintu gerbang menuju Taman Nasional Komodo di Nusa Tenggara Timur, Indonesia. Tempat ini terkenal dengan keindahan alamnya dan merupakan tempat untuk melihat komodo, reptil raksasa yang hanya ada di pulau ini.</item>
+        <item>Lombok adalah pulau di Nusa Tenggara Barat, Indonesia, yang terkenal dengan pantainya yang indah seperti Pantai Kuta Lombok dan Gunung Rinjani, gunung berapi yang menjadi objek hiking populer.</item>
+        <item>Bandung adalah kota di Jawa Barat, Indonesia, yang terkenal dengan keindahan alamnya, kulinernya, dan kebudayaannya. Bandung juga dikenal dengan gedung-gedung art deco dan kota ini merupakan tempat belanja yang populer.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/borobudur_image</item>
+        <item>@drawable/prambanan_image</item>
+        <item>@drawable/dieng_plateau_image</item>
+        <item>@drawable/raja_ampat_image</item>
+        <item>@drawable/bali_image</item>
+        <item>@drawable/bromo_image</item>
+        <item>@drawable/tana_toraja_image</item>
+        <item>@drawable/labuan_bajo_image</item>
+        <item>@drawable/lombok_image</item>
+        <item>@drawable/bandung_image</item>
+    </integer-array>
+
+</resources>
